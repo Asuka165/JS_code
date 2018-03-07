@@ -1,7 +1,7 @@
 /**
  *	Javascript code for getting Radio value
  *	
- *	@param array Elem : Array of Radio Button Elements. (Ex. getElementsByClassName,getElementsByName)
+ *	@param HTMLElement Elem : Array of Radio Button Elements returned from getElementsByClassName or getElementsByName
  *	@return : The value of selected element or FALSE if none of them is selected.
  */
 function getRadioValue(Elem){
