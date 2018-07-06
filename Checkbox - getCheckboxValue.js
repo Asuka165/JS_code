@@ -1,8 +1,8 @@
 /**
  *	Javascript code for getting Checkbox value
  *	
- *	@param HTMLElement Elem : Array of Checkbox Button Elements returned from getElementsByClassName or getElementsByName
- *	@return : Value in Array, FALSE if non of them checked
+ *	@param HTMLElement 		Elem		Array of Checkbox Button Elements returned from getElementsByClassName or getElementsByName
+ *	@return 					Value in Array, FALSE if non of them checked
  */
 function getCheckBoxValue(Elem){
 	
